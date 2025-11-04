@@ -1,4 +1,7 @@
-# 🎯 ServiceNow Incident Creation Lab
+## 🎬 Watch Me Build This Lab!
+<https://www.loom.com/share/21a3dc240d80446e8b9023c4a8c30605> 
+
+🎯 ServiceNow Incident Creation Lab
 
 > **Learn how to create and submit incident tickets in ServiceNow**
 
